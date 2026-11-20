@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /assets/ads/
 
 Sitemap: https://tomgiles.co/sitemap.xml
 Sitemap: https://tomgiles.co/news-sitemap.xml
